@@ -3,4 +3,5 @@
 /allure-results/
 /.idea/
 /scr/
+**.DS_Store
 
